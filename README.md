@@ -23,7 +23,7 @@ The following image shows the web app's appearance and functionality:
 
 ## Links
 - GitHub Repo: https://github.com/kjmckinley/budget-tracker.git
-- Heroku Live:
+- Heroku Live: https://budget-tracker-kjm.herokuapp.com/
 
 ## Contributors
 - Kyle McKinley - GitHub: kjmckinley
